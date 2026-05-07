@@ -2,6 +2,8 @@
 
 This project joins utility rate data, climate data, and election results across ~3,000 US counties to see if politics and climate affect utility rates.
 
+Demo video: youtube.com/watch?v=4VBkk-euABY&feature=youtu.be
+
 ## Data Sources
 
 | Dataset | Source | Geography |
