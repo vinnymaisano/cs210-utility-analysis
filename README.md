@@ -1,6 +1,6 @@
 # US Electricity Rates: A County-Level Analysis
 
-This project joins utility rate data, climate data, and election results across ~3,000 US counties to find out.
+This project joins utility rate data, climate data, and election results across ~3,000 US counties to see if politics and climate affect utility rates.
 
 ## Data Sources
 
